@@ -6,3 +6,10 @@ body{
    --secondary-color:#f23255;
    --main-size:1.5rem;
 }
+.App{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
